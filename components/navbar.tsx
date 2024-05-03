@@ -69,9 +69,9 @@ const Navbar = ({
             Brands
           </div>
 
-          <Link href="/pricing" className="hover:text-gray-50">
+          {/* <Link href="/pricing" className="hover:text-gray-50">
             Pricing
-          </Link>
+          </Link> */}
         </div>
 
         <div className="flex md:hidden">
